@@ -59,3 +59,15 @@ main {
 .input-notas {
   display: flex;
 }
+
+.rodape {
+  background-color: rgb(60, 64, 74);
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  font-size: large;
+}
