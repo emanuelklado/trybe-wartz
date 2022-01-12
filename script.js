@@ -19,4 +19,5 @@ function enableButton() {
     buttonSubmit.removeAttribute('disabled');
   }
 }
+
 agree.addEventListener('input', enableButton);
